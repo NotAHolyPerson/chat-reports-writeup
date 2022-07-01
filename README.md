@@ -27,10 +27,10 @@ And it would be okay if the report system only affected Realms, but it doesn't.<
 ![Ban Screen](https://i.redd.it/hoyh22jsh9791.png "Image")
 <sub><sup>Credits to EnderCreeperYT for writing the mod</sup></sub>
 
-### Banned accounts on 1.6 versions will not be able to join any multiplayer servers in any version.<br>
+### Accounts can only be banned on 1.19+ versions, but clients running versions starting from 1.6 wont be able to join online-mode servers once they are banned.<br>
 ### It is like that because authentication servers (even for versions under 1.19) will ignore your account.
 
-Bans will also be cross-platform (thanks to Microsoft accounts) and you can get banned for writing "bad stuff" in books and signs. (Taken from Minecraft website). Right now (as of 1.19.1 pre2) book and sign packets in JE are still unsigned
+Bans will also be cross-platform (thanks to Microsoft accounts) and you can get banned for writing "bad stuff" in books and signs. (Taken from Minecraft website). Right now (as of 1.19.1 pre2) book and sign packets in JE are still unsigned.
 
 Also, currently reports are not sent to server admins, and only to the "highly trained moderation team" at Microsoft<br>
 On your private server, with your own rules, where some of the forbidden stuff can be accepted, you can get banned because of a random chat report.
