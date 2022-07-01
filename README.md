@@ -53,7 +53,7 @@ It's a plugin for spigot-related servers.
 
 Keep in mind, it might be buggy, work is still in progress.
 
-SpigotMC: https://www.spigotmc.org/resources/noencryption.102902/
+SpigotMC: https://www.spigotmc.org/resources/noencryption.102902/<br>
 Source code: https://github.com/Doclic/NoEncryption
 
 ### As third, you could install No Chat Reports on your server.
@@ -64,7 +64,7 @@ This is not that buggy, as NoEncryption, but the work is still in progress.
 ### It is also a mod for clients, so you definitely recommend your players to install it.
 Or, if you are just a player, then install it, he-he.
 
-CurseForge: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports<br>
 Source code: https://github.com/Aizistral-Studios/No-Chat-Reports
 
 # That's it, thanks for reading my little writeup for letting you know about this feature.
