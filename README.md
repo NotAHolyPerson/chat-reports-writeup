@@ -68,3 +68,4 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports<br>
 Source code: https://github.com/Aizistral-Studios/No-Chat-Reports
 
 # That's it, thanks for reading my little writeup for letting you know about this feature.
+Please leave a star, if you liked it.
