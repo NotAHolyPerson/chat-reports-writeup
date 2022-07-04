@@ -40,7 +40,7 @@ On your private server, with your own rules, where some of the forbidden stuff c
 ### Basically, on the reports the Microsoft moderators will receive a JSON-file containing the message, that was reported and 3 previous messages. Also, they are going to receive the timestamp of every message.
 
 ### The encryption works like this:
-![Encryption System](https://media.discordapp.net/attachments/976818475894984744/993559971344154734/unknown.png "Image")
+![Encryption System](https://media.discordapp.net/attachments/990662695399333950/993560730995531776/unknown.png?width=1440&height=645 "Image")
 
 ### The chat messages work like this:
 ![Chat Messages System](https://media.discordapp.net/attachments/990662695399333950/993560270028943400/unknown.png?width=1337&height=676 "Image")
